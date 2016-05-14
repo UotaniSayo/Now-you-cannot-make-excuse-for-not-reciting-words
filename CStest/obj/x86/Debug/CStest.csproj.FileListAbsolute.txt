@@ -1,0 +1,7 @@
+E:\VS PRJ\CS1\CStest\CStest\obj\x86\Debug\CStest.main.resources
+E:\VS PRJ\CS1\CStest\CStest\obj\x86\Debug\CStest.Properties.Resources.resources
+E:\VS PRJ\CS1\CStest\CStest\obj\x86\Debug\CStest.csproj.GenerateResource.Cache
+E:\VS PRJ\CS1\CStest\CStest\bin\Debug\CStest.exe
+E:\VS PRJ\CS1\CStest\CStest\bin\Debug\CStest.pdb
+E:\VS PRJ\CS1\CStest\CStest\obj\x86\Debug\CStest.exe
+E:\VS PRJ\CS1\CStest\CStest\obj\x86\Debug\CStest.pdb
